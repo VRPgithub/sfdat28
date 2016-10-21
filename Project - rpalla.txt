@@ -1,0 +1,7 @@
+1. Churn Model - Internal Project
+
+PayPal being a Financial/Customer centric Company, there is a lot of focus on finding an indicator for a customer who would turn into an engaged/churned customer very early in the game to act upon.
+
+2. Home Price Estimator
+
+3. Stock/Ticker price estimator
